@@ -1,0 +1,60 @@
+Exercise 1
+Pseudocode:
+
+Input length in feet (LFT)
+Calculate the length in cm (LCM) by multiplying LFT by 30
+Print length in cm (LCM)
+
+Exercise 2
+Pseudocode:
+
+Input the width (W) and the length (L) of a rectangle
+Calculate the area (A) by multiplying W by L
+Print A
+
+Exercise 3
+Pseudocode:
+
+Input the three different numbers(A, B, C)
+Compare A with B
+If A is greater than B
+Compare A with C
+If A is greater than C
+Print A
+Else
+Compare B with C
+If B is greater than C
+Print B
+Else
+Print C
+End
+
+Exercise 4
+Pseudocode:
+
+Input three numbers(A, B, C)
+Compare the sum of A and B with C
+If the sum of A and B is greater than C
+Compare the sum of C and A with B
+If the sum of C and A is greater than B
+Compare the sum of B and C with A
+If the sum of B and C is greater than A
+Making triangle with three numbers is possible
+Else
+Making triangle with three numbers is impossible
+End
+
+Exercise 5
+Pseudocode:
+
+Input student's score (S) and the full score (F)
+If S is greater than or equal to 80% of F
+Print "A"
+Else
+If S is greater than or equal to 60% of F
+Print "B"
+Else
+If S is greater than or equal to 40% of F
+Print "C"
+Else
+Print "No Grade"
